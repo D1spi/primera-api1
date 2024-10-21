@@ -1,4 +1,4 @@
-import './loadEnvironment';
+import './loadEnvironment.js';
 import express from 'express';
 
 // Initialize expres
